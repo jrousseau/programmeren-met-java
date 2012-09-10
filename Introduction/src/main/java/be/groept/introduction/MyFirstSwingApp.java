@@ -10,7 +10,7 @@ import javax.swing.JButton;
 import javax.swing.JEditorPane;
 import javax.swing.JFrame;
 import javax.swing.JOptionPane;
-
+// Some comment
 public class MyFirstSwingApp {
 
 	private JFrame frame;
